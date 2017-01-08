@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               CF
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+tagline:             Another computer science blog.
+url:                 http://cfollet.github.io
 baseurl:             ""
 
 # Assets
@@ -16,14 +16,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Charles Follet
+  url:               http://cfollet.github.io
+  email:             charles.follet@yahoo.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/cfollet/cfollet.github.io
 
 # Gems
 gems:
