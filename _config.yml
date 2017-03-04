@@ -1,30 +1,20 @@
-# Permalinks
-permalink:           pretty
+# Site settings
+title: Experience variety
+email: cfollet@protonmail.com
+author: Charles Follet
+description: "A blog about ..."
+baseurl: ""
+url: "cfollet.github.io"
+twitter_username: charlesfollet
+github_username:  cfollet
+linkedin_username: cfollet
 
-# Setup
-title:               CF
-tagline:             Another computer science blog.
-url:                 http://cfollet.github.io
-baseurl:             ""
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Charles Follet
-  url:               http://cfollet.github.io
-  email:             charles.follet@yahoo.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/cfollet/cfollet.github.io
-
-# Gems
 gems:
-  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-paginate
