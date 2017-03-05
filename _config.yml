@@ -1,8 +1,8 @@
 # Site settings
-title: Experience variety
+title: cfollet
 email: cfollet@protonmail.com
 author: Charles Follet
-description: "A blog about ..."
+description: "A blog about computer science."
 baseurl: ""
 url: "cfollet.github.io"
 twitter_username: charlesfollet
